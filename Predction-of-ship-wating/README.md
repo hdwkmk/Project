@@ -7,7 +7,7 @@
 ## 📌 주최
 
 - DACON
-- HD(HYUNDAI)
+- HD한국조선해양 AI Center
 
 
 ## 🧭 프로젝트 배경
